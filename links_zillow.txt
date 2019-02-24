@@ -1,0 +1,7 @@
+https://www.zillow.com/homes/for_rent/Champaign-IL/house,mobile,land,townhouse_type/4042_rid/40.181365,-88.178158,40.038261,-88.397884_rect/11_zm/
+https://www.zillow.com/homes/for_rent/Champaign-IL/house,mobile,land,townhouse_type/4042_rid/40.248874,-88.105888,39.962649,-88.545341_rect/10_zm/2_p/
+https://www.zillow.com/homes/for_rent/Champaign-IL/house,mobile,land,townhouse_type/4042_rid/40.248874,-88.105888,39.962649,-88.545341_rect/10_zm/3_p/
+https://www.zillow.com/homes/for_rent/Champaign-IL/house,mobile,land,townhouse_type/4042_rid/40.248874,-88.105888,39.962649,-88.545341_rect/10_zm/4_p/
+https://www.zillow.com/homes/for_rent/Champaign-IL/house,mobile,land,townhouse_type/4042_rid/40.248874,-88.105888,39.962649,-88.545341_rect/10_zm/5_p/
+https://www.zillow.com/homes/for_rent/Champaign-IL/house,mobile,land,townhouse_type/4042_rid/40.248874,-88.105888,39.962649,-88.545341_rect/10_zm/6_p/
+https://www.zillow.com/homes/for_rent/Champaign-IL/house,mobile,land,townhouse_type/4042_rid/40.248874,-88.105888,39.962649,-88.545341_rect/10_zm/7_p/
