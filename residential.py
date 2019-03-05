@@ -1,9 +1,9 @@
 from selenium import webdriver
 import os
 import time
-links = open('links_apartments.txt','r')
+links = open('apartmentfinder_link.txt','r')
 address_1 = []
-address_2 = []
+# address_2 = []
 for link in links:
     time.sleep(2)
     link_init = link
@@ -22,9 +22,8 @@ for link in links:
         raise Exception('The required element does not exist({})'.format(target_element))
     for search in searches:
         address_1.append(search.text)
-    for search_extra in searches_extra:
-        address_2.append(search_extra.text)
-    print(address_1)
+    # for search_extra in searches_extra:
+        # address_2.append(search_extra.text)
     # try:
     #     next_page = driver.find_element_by_class_name('off')
     #     # print(next_page)
@@ -34,6 +33,6 @@ for link in links:
     driver.close()
 
 print(address_1)
-with open("address_apartments.txt", "w") as output:
+with open("address_apartmentsfinder.txt", "w") as output:
     for i in range(len(address_1)-1):
-        output.write(str(address_1[i]) + '  ' + str(address_2[i]) + '\n')
+        output.write(str(address_1[i]) + '\n')
